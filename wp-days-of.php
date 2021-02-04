@@ -14,8 +14,8 @@
  *
  * @wordpress-plugin
  * Plugin Name:       WPDaysOf
- * Plugin URI:        https://tech.franzone.blog
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Plugin URI:        https://github.com/franzone/wp-days-of
+ * Description:       Adds capabilities to provide a daily update in the form of: "It's January 20, 2021, the Nth day of [description]". Allows a configurable start day and description, allows the addition of "tags" and posting to social media.
  * Version:           1.0.0
  * Author:            Jonathan Franzone
  * Author URI:        https://about.franzone.com
